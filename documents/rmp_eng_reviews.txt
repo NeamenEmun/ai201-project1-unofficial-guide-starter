@@ -1,0 +1,21 @@
+SOURCE: Rate My Professor - Engineering Reviews
+
+Professor Martinez - Circuits
+Rating: 3.7/5
+"Circuits is fundamentally hard - lots of math. Martinez is clear but the material is brutal. No curve on exams. Tests are 70% of grade, lab reports 30%. You MUST understand Kirchhoff's laws cold or you're lost. He gives partial credit generously though. Circuits is a weeder course - lots of students repeat it."
+
+Professor Wu - Digital Logic
+Rating: 4.1/5
+"Wu's lectures are dense but high-quality. Digital Logic is the foundation for everything else in CS. Exams are curved +5%, projects not curved. Grade: 35% midterm, 35% final, 30% projects. Projects take forever. Most students spend 20+ hours on each project. Wu is helpful during office hours."
+
+Professor Gomez - Signals & Systems
+Rating: 2.8/5
+"This is a weeder course and Gomez doesn't make it easier. Concepts are abstract and Gomez's explanations are sometimes hard to follow. Grading is strict - no curve. 40% exam, 30% midterm, 30% projects. Signals is known as the course that makes people change majors. I made a C and was grateful."
+
+Professor Nakamura - Electromagnetics
+Rating: 3.4/5
+"Emag is notoriously hard. Nakamura is a good lecturer but the material is just tough. Exams curved +8-10% because everyone struggles. Projects curved as well. Total grade: 50% exams (2 midterms + final), 30% projects, 20% homework. His homework is optional but doing it helps a lot. Office hours are crowded."
+
+Professor Torres - Materials Science
+Rating: 4/5
+"Torres makes materials interesting. Not as theoretical as other eng courses. Grading: 30% projects, 25% midterm, 25% final, 20% homework/quizzes. Class attendance optional but exams have questions ONLY from lectures, not textbook. Curved +3-5% usually. Lab work is collaborative and fun."

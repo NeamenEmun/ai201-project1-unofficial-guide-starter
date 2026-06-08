@@ -1,0 +1,100 @@
+[
+  {
+    "test_id": 1,
+    "question": "What do students say about Professor Smith's grading practices and whether he curves exams?",
+    "expected_answer": "Students should mention whether exams are curved, if grades are harsh or fair, and specific grading percentages",
+    "system_response": "According to the context, students say that Professor Smith's grading practices are fair. Specifically, they mention that he curves the midterm exam, but not the final exam. \n\nFrom [Source: rmp_cs_reviews.txt], one student states that \"He curves the midterm but NOT the final exam.\" Another student from the same source mentions that \"Midterms are curved (usually +5 to +10 points) but finals are straight\".\n\nAdditionally, [Source: blog_course_reviews.txt] confirms that \"Smith curves the midterm (this year was +8 points) but the final is straight\".\n\nLastly, [Source: wiki_professor_guide.txt] also mentions that Professor Smith curves the midterm exam, stating \"Curve: Midterm yes (+5-10), Final no\".\n\nOverall, the students agree that Professor Smith curves the midterm exam, but not the final exam, and that his grading practices are fair and reasonable if you study and attend class.",
+    "sources_retrieved": [
+      "rmp_cs_reviews.txt",
+      "wiki_professor_guide.txt",
+      "syllabi_summary.txt",
+      "blog_course_reviews.txt"
+    ],
+    "num_chunks_retrieved": 5,
+    "retrieval_distances": [
+      0.3047906160354614,
+      0.33666735887527466,
+      0.3564574718475342,
+      0.35876667499542236,
+      0.39483851194381714
+    ]
+  },
+  {
+    "test_id": 2,
+    "question": "Is Data Structures a hard course and what should students expect in terms of workload?",
+    "expected_answer": "Should mention that it's challenging, includes heavy programming assignments, typically 8-12 hours/week outside class",
+    "system_response": "According to the context, Data Structures is considered a hard course. User1 from the Reddit thread \"Advice for taking Data Structures\" states that \"The course is hard because you need to understand WHY different data structures exist, not just memorize them\" [Source: reddit_learnprogramming.txt]. \n\nIn terms of workload, the Student Blog post reviewing Data Structures with Professor Smith describes it as \"Moderate-heavy\" with approximately 8-10 hours of work per week outside of class, including 3 programming assignments and about 30 pages of reading per week [Source: blog_course_reviews.txt]. \n\nIt's worth noting that the workload and difficulty may vary depending on the professor, as User1 mentions that \"Some professors curve, some don't\" [Source: reddit_learnprogramming.txt]. However, based on the available information, students can expect a significant workload and challenging material in the Data Structures course.",
+    "sources_retrieved": [
+      "reddit_cscareerq.txt",
+      "wiki_professor_guide.txt",
+      "blog_course_reviews.txt",
+      "reddit_learnprogramming.txt"
+    ],
+    "num_chunks_retrieved": 5,
+    "retrieval_distances": [
+      0.2477179765701294,
+      0.43633192777633667,
+      0.43726909160614014,
+      0.4954416751861572,
+      0.5011412501335144
+    ]
+  },
+  {
+    "test_id": 3,
+    "question": "How important is attending class for Professor Johnson's lectures, and what material appears on her tests?",
+    "expected_answer": "Attendance is critical, exams focus on lecture content over textbook, skipping class is risky",
+    "system_response": "According to the context from [rmp_cs_reviews.txt], attending every class for Professor Johnson's lectures is crucial, as stated: \"You need to attend every class or you'll miss crucial intuition.\" \n\nRegarding the material that appears on her tests, the same source mentions that \"Tests pull equally from lectures and textbook.\" \n\nAdditionally, [blog_course_reviews.txt] suggests that reading Professor Johnson's course notes is more important than the textbook, as her notes cover exactly what's on exams. \n\nTherefore, attending classes and taking notes, as well as reading Professor Johnson's course notes, are important for performing well on her tests.",
+    "sources_retrieved": [
+      "rmp_cs_reviews.txt",
+      "quora_prof_answers.txt",
+      "reddit_learnprogramming.txt",
+      "blog_course_reviews.txt"
+    ],
+    "num_chunks_retrieved": 5,
+    "retrieval_distances": [
+      0.381178617477417,
+      0.3929576277732849,
+      0.403947114944458,
+      0.4551573395729065,
+      0.45944851636886597
+    ]
+  },
+  {
+    "test_id": 4,
+    "question": "What is the typical grade distribution in an Algorithms course and how are students graded?",
+    "expected_answer": "Percentage of grade from exams vs. projects, typical letter grade distribution, any extra credit opportunities",
+    "system_response": "According to the context from student reviews, the typical grade distribution in an Algorithms course varies depending on the professor. \n\nFor Professor Lee's Algorithms (Advanced) course, there is no explicit grade distribution mentioned, but it is mentioned that she curves the exams (usually 10-15 points) and drops the lowest exam score (Source: rmp_cs_reviews.txt).\n\nFor Professor Johnson's Algorithms course, one review mentions that the final grade distribution is: 30% projects, 35% midterm, 35% final (Source: rmp_cs_reviews.txt). Another review provides a rough grade distribution for the class: A: 30%, B: 45%, C: 20%, D: 5% (Source: blog_course_reviews.txt).\n\nIn terms of grading, Professor Lee is described as generous with partial credit on proofs and fair in her grading (Source: rmp_cs_reviews.txt). Professor Johnson also curves the entire class at the end of the semester if the median final grade falls below C+, and individual assignment curves are possible if technical issues occur (Source: syllabi_summary.txt). Additionally, Professor Johnson's tests pull equally from lectures and textbook, and attending every class is crucial to not missing important material (Source: rmp_cs_reviews.txt). \n\nIt is worth noting that the grading breakdown for Professor Chen's Computer Architecture course is mentioned (A: 90+, B: 80+, C: 70+, D: 60+), but this is not directly related to the Algorithms course (Source: rmp_cs_reviews.txt).",
+    "sources_retrieved": [
+      "rmp_cs_reviews.txt",
+      "syllabi_summary.txt",
+      "blog_course_reviews.txt"
+    ],
+    "num_chunks_retrieved": 5,
+    "retrieval_distances": [
+      0.3855048418045044,
+      0.39013344049453735,
+      0.3930760622024536,
+      0.3963731527328491,
+      0.4150678515434265
+    ]
+  },
+  {
+    "test_id": 5,
+    "question": "Are there any 'weeder' courses students should be aware of and what makes them difficult?",
+    "expected_answer": "Names courses known as challenging gatekeepers, explains why (theory, time-intensive, harsh grading), mentions survival strategies",
+    "system_response": "According to the provided context from multiple sources, including \"quora_prof_answers.txt\" and \"forum_hardest_courses.txt\", there are indeed 'weeder' courses that students should be aware of. \n\nSpecifically, **Signals & Systems (Gomez)** is mentioned as a notorious weeder course, where 40% of students don't pass (quora_prof_answers.txt). The difficulty of this course is attributed to the abstract and hard material, as well as Gomez's explanations being hard to follow (forum_hardest_courses.txt).\n\nAnother course mentioned is **Circuits with Martinez**, which is also considered a weeder course, but the context does not specify the exact reasons for its difficulty (quora_prof_answers.txt).\n\nThe context suggests that these courses are challenging due to their heavy workload, abstract material, and strict professors. To survive these courses, students are advised to attend every lecture, start projects early, and dedicate sufficient time to problem sets (forum_hardest_courses.txt).\n\nIt's worth noting that while these courses are considered weeder courses, the professors teaching them are not necessarily bad. For example, Martinez is described as \"not easy, not mean. Strict\" and is considered one of the most capable professors in engineering (wiki_professor_guide.txt). Similarly, Gomez's course is difficult, but it's not because Gomez is a bad professor (quora_prof_answers.txt).",
+    "sources_retrieved": [
+      "forum_hardest_courses.txt",
+      "quora_prof_answers.txt",
+      "wiki_professor_guide.txt"
+    ],
+    "num_chunks_retrieved": 5,
+    "retrieval_distances": [
+      0.3548493981361389,
+      0.3945501446723938,
+      0.5177110433578491,
+      0.5182758569717407,
+      0.574305534362793
+    ]
+  }
+]

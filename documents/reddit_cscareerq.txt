@@ -1,0 +1,13 @@
+SOURCE: Reddit r/cscareerquestions - Thread: "Which CS courses actually matter for internships?"
+
+User_A: "Algorithms and Data Structures are non-negotiable. Tech companies ask algorithm interview questions and if you haven't taken a real course, you'll struggle. Doesn't matter how easy or hard the course is - you need to know this stuff."
+
+User_B: "Also systems courses help: Operating Systems, Computer Architecture, Databases. They're less tested in interviews but they make you a better engineer. Some companies specifically ask about OS concepts like threading."
+
+User_C: "Real talk: the courses that are hardest are usually the most important. Signals & Systems destroys people but it's foundational. Algorithms destroys people but every tech company tests it. Don't avoid hard courses - take them early so the grades matter less and you actually learn the material."
+
+Interviewer_Sam: "From our recruiting side: take Algorithms with a professor you respect, even if it means a harder curve. We can tell the difference between students who know algorithms deeply vs. students who just memorized stuff. Johnson's Algorithms class (hard grader) produces students we actually want to hire. Smith's Data Structures class does too."
+
+User_D: "What if your professor is bad? Like what if they don't teach well?"
+
+Interviewer_Sam: "Then office hours + online resources (MIT OpenCourseWare, LeetCode, etc) become critical. But honestly, a bad professor in Algorithms is still teaching you Algorithms. You'll learn enough to interview well if you put in effort."

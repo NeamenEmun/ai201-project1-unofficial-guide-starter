@@ -1,0 +1,43 @@
+SOURCE: Student Notes - "Syllabi Summaries and Grading Breakdowns"
+
+**CS 210 - Data Structures with Smith (Syllabus Summary)**
+Grading: Programming assignments 40%, Midterm 30%, Final 30%, Participation 0%
+Attendance: Strongly recommended, not mandatory. But Smith's exams are based on his lectures.
+Workload: Expected 10 hours outside class per week. 3 programming assignments per month.
+Curve: "Midterm exam is curved if average is below 75. Final exam is not curved. Curves are applied equally to all students."
+Key: Students report midterm typically curved +5 to +10 points.
+
+**CS 330 - Algorithms with Johnson (Syllabus Summary)**
+Grading: Projects 30%, Midterm 35%, Final 35%
+Attendance: Optional but strongly encouraged. Exams pull from lectures.
+Workload: 12+ hours per week outside class. Proof-based problem sets.
+Curve: "End-of-semester curve applied if median final grade falls below C+. Individual assignment curves possible if technical issues occur."
+Key: Johnson curves the entire class, not individual grades. Math-heavy course.
+
+**CS 360 - Operating Systems with Rodriguez (Syllabus Summary)**
+Grading: Projects 50%, Midterm 25%, Final 25%
+Attendance: Optional.
+Workload: Very heavy on projects. Individual students report 15-20 hours for big projects.
+Curve: No curve mentioned in syllabus.
+Key: Projects are graded on correctness, not effort. Must handle edge cases.
+
+**CS 380 - Databases with Kim (Syllabus Summary)**
+Grading: Homework 20%, Projects 30%, Midterm 20%, Final 30%
+Attendance: Optional.
+Workload: Moderate. Mostly SQL queries, some theory.
+Curve: "Flexible grading. Partial credit given for near-correct solutions. Final grades may be adjusted if appropriate."
+Key: Kim is lenient. Students report a +3% to +5% end-of-semester curve.
+
+**EE 210 - Circuits with Martinez (Syllabus Summary)**
+Grading: Exams 70% (two midterms 30% each + final 40%), Lab/projects 30%
+Attendance: Mandatory. Sign-in sheet used.
+Workload: Very heavy. Students report 12-15 hours per week minimum.
+Curve: No curve. "Grades reflect student understanding. Partial credit awarded for method."
+Key: Brutal course. No mercy, but partial credit exists. Median grade reported as C+.
+
+**EE 250 - Signals & Systems with Gomez (Syllabus Summary)**
+Grading: Exams 60% (midterm 30%, final 30%), Projects 40%
+Attendance: Mandatory.
+Workload: Extremely heavy. Abstract math.
+Curve: Not mentioned. Likely none.
+Key: 40% pass rate typical. Students who pass are usually retaking. Very hard course.

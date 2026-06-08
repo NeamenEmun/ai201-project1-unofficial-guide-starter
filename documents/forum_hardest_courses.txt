@@ -1,0 +1,25 @@
+SOURCE: Student Forum - "The Hardest CS/Engineering Courses: Real Talk"
+
+Thread Author: "Compiling student feedback on which courses actually destroy people. If you're thinking about taking these, prepare properly."
+
+### Known Weeder Courses:
+
+**Signals & Systems (Gomez)** - "This course makes people change majors. Not exaggerating. The math is abstract, Gomez's explanation can be hard to follow, and there's no curve. Last year only 40% of students passed. One student I know took it 3 times before passing."
+
+**Digital Logic (Wu)** - "Hard because it's the foundation for EVERYTHING in CS. If you don't understand boolean algebra and digital gates, you'll struggle forever. Wu's projects are relentless - 20+ hours each. But the course is essential."
+
+**Algorithms (Johnson)** - "Johnson's version is known as the 'proof course.' She tests deep understanding. Exams curved 6-8% but it doesn't matter because everyone scores low. The average on her midterms is usually 60-65%. But students who pass Johnson's course are solid."
+
+**Circuits (Martinez)** - "Circuits is about understanding voltage, current, and power. The math is brutal. Martinez is fair but doesn't make it easy. Students typically spend 4-5 hours per week JUST on the problem sets. It's a weeder."
+
+### How to Survive These Courses:
+
+1. **Attend every lecture** - These courses have key insights not in the textbook. Professors often solve problems in ways the book doesn't explain.
+
+2. **Start projects early** - Digital Logic projects take forever. Circuits problem sets have to be done correctly. Don't start the night before.
+
+3. **Form study groups** - Abstract courses (Signals, Algorithms) click better when explained by classmates. If you can explain it to someone else, you understand it.
+
+4. **Go to office hours** - For weeder courses, office hours are filled with students. It means the professor expects it and has time for it.
+
+5. **Don't compare yourself to classmates** - In Algorithms with Johnson, if 70% of the class also got a 55 on the first exam, that's normal. Curves happen for this reason.

@@ -1,0 +1,13 @@
+SOURCE: Reddit r/learnprogramming - Thread: "Advice for taking Data Structures"
+
+User1: "Just finished Data Structures. Here's what I learned: The course is hard because you need to understand WHY different data structures exist, not just memorize them. You'll do a lot of coding. Some professors curve, some don't. The key is to start projects early because debugging linked lists takes forever."
+
+User2: "Agreed. Also: attend class. Lots of professors pull exam questions directly from what they write on the board. I had a friend who skipped a lot and missed crucial examples that showed up on tests verbatim."
+
+User3: "The assignments are the valuable part. Yeah, some are frustrating, but you learn real skills about designing algorithms for specific problems. If your professor forces you to implement binary search trees, hash tables, and graphs, you'll actually retain stuff. Don't just memorize - understand tradeoffs (time vs space, complexity, etc)."
+
+User4: "Which professors do you all recommend? I hear Smith is good but demanding. And Johnson is supposedly a weeder?"
+
+User1: "Smith is tough but fair. His exams are hard but if you study lecture notes you can do okay. He curves midterms usually. Johnson is harder - her exams are proof-heavy. Honestly, go with Smith."
+
+User5: "Pro tip: Form study groups. Data structures clicked for me when I had to explain it to classmates. Also: practice drawing diagrams of trees and graphs. The visual intuition matters more than code in the theory portion."

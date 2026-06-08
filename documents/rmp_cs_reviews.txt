@@ -1,0 +1,41 @@
+SOURCE: Rate My Professor - Computer Science Reviews
+
+Professor Smith - Data Structures
+Rating: 4.5/5
+"Smith is an excellent professor. His lectures are clear and his exams are challenging but fair. He curves the midterm but NOT the final exam. Most students get A or B if they study and attend class. The programming assignments are tough but teach you real skills. Definitely take him if you can."
+
+Professor Smith - Data Structures
+Rating: 4/5
+"Exams are very focused on lecture material, not the textbook. Smith explicitly says in syllabus that attending class is critical since exam questions come directly from board work. Midterms are curved (usually +5 to +10 points) but finals are straight scores. Workload is 10-12 hours per week outside class."
+
+Professor Johnson - Algorithms
+Rating: 3.5/5
+"Johnson is tough. Her exams are notoriously hard - proof-heavy and require deep understanding of material. She DOES curve grades at the end of semester (usually 5-8%). Tests pull equally from lectures and textbook. You need to attend every class or you'll miss crucial intuition. Not a gpa booster."
+
+Professor Johnson - Algorithms
+Rating: 4/5
+"Don't let the reviews scare you. Johnson's course is hard but she's a fair grader. Final grade distribution: 30% projects, 35% midterm, 35% final. She curves at end if class does poorly. Final curve this year was +6 points. Grading breakdown: A: 90+, B: 80+, C: 70+, D: 60+. Projects are the easiest part if you start early."
+
+Professor Chen - Computer Architecture
+Rating: 4.8/5
+"Chen is amazing. Architecture seems dry but he makes it fascinating with real-world examples from CPU design. Exams are fair, straightforward if you study lecture notes. He curves most exams (+3 to +8 points). Class attendance isn't mandatory but highly recommended - his board work is gold and textbook doesn't explain as well."
+
+Professor Chen - Computer Architecture  
+Rating: 3/5
+"Warning: Chen's projects are brutal. The Verilog assignment takes 30+ hours for some students. Tests are curved but projects are not. If you're weak in digital logic, prepare to suffer. I got a 55 on the final project and it was curved to a 62. Still counted as just barely passing the course."
+
+Professor Lee - Algorithms (Advanced)
+Rating: 4.2/5
+"Advanced Algorithms with Lee. Content is rigorous. Tests are 60% exam, 40% projects. The exams are curved (usually 10-15 points because everyone finds them hard). Lee drops lowest exam score. She's generous with partial credit on proofs. Definitely attend lectures - lots of intuition that the textbook doesn't have."
+
+Professor Rodriguez - Operating Systems
+Rating: 3.8/5
+"OS is one of the harder courses in the CS major. Rodriguez is fair but demanding. Project grade: 50%, Midterm: 25%, Final: 25%. Projects are graded harshly on correctness and edge cases. No curve, but he's lenient with partial credit if your code is close. Attendance optional but seriously do it."
+
+Professor Kim - Databases
+Rating: 4.3/5
+"Kim makes databases interesting. SQL queries on exams but also some theoretical questions about normalization and indexing. Exams curved +4-6% usually. Projects are straightforward if you follow the spec. Homework: 20%, Projects: 30%, Midterm: 20%, Final: 30%. He's flexible with extensions if you ask early."
+
+Professor Patel - Web Development
+Rating: 4.5/5
+"Patel is one of my favorite professors. Web Dev is more practice than theory. Grading: Projects 50%, Participation 20%, Quizzes 10%, Final Project 20%. No exams - just build stuff. He curves grades liberally (final grades bumped 5-10% at end). Showing up and participating is more important than perfection."

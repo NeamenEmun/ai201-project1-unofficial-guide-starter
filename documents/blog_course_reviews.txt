@@ -1,0 +1,47 @@
+SOURCE: Student Blog - "My Honest Reviews of CS Core Classes"
+
+**Blog Post 1: Data Structures with Professor Smith**
+
+Taking Data Structures with Smith this semester. Here's my honest review after the midterm:
+
+The Good: Smith actually explains WHY we care about each data structure. Not just "here's a binary tree" but "here's why trees are better than arrays for this use case." His lectures are organized and he posts notes before class so you can focus on listening.
+
+The Workload: Moderate-heavy. Probably 8-10 hours per week outside class. That's 3 programming assignments and about 30 pages of reading per week. The assignments build on each other so you can't fall behind.
+
+Exams: Smith curves the midterm (this year was +8 points) but the final is straight. His exams are ~80% lecture material and ~20% from textbook. He literally warns us: "I only test what I wrote on the board." Sounds harsh but it's actually fair - his board work IS the exam topics.
+
+Grade distribution: Last semester was roughly A: 30%, B: 45%, C: 20%, D: 5%. Most people get B or better if they study.
+
+Would I take him again: Yes. He's demanding but you actually learn.
+
+---
+
+**Blog Post 2: Algorithms with Professor Johnson**
+
+Algorithms with Johnson is hard. I'm writing this after the midterm where I got a 62 and it felt like a victory.
+
+Why it's hard: Johnson teaches rigorous algorithm analysis. Not just "code this" but "prove this algorithm works" and "analyze time/space complexity." Her exams are 40% writing proofs, 30% problem solving, 30% code.
+
+Grading: 30% projects, 35% midterm, 35% final. Projects are autograded so it's binary - works or doesn't. That means exams are everything. But here's the secret: she curves. Last year the midterm average was 61 and she curved to 67. The final average was 58, curved to 65.
+
+What's fair about Johnson: She curves the CLASS, not individual students. So if 70% of us got a 60, she adjusts so a 60 becomes a 70. It rewards people who studied relative to the class, not absolute.
+
+Tactics: (1) Read her course notes, not the textbook - her notes cover exactly what's on exams. (2) Go to office hours - she's there 5 hours per week and actually helps. (3) Start projects 2 weeks early - the autograder catches bugs at the last minute.
+
+Would I recommend: Yes, but only if you're willing to put in work. Johnson makes you earn it but she's fair.
+
+---
+
+**Blog Post 3: Web Development with Professor Patel**
+
+Web Dev with Patel is the opposite of the hard courses. It's actually fun.
+
+Structure: No exams. Instead, you build projects. Grading is 50% projects, 20% participation, 10% quizzes, 20% final project.
+
+Why it's chill: Patel curves at the end (+5 to +10% typically). He cares more about you showing up and engaging than getting perfect scores. Plus he gives extensions without fussing if you ask early.
+
+Workload: Moderate. You're coding a lot but not stressing about proving theorems. Maybe 6-8 hours outside class.
+
+Tradeoff: You learn practical skills (React, Node, databases) but less about the underlying CS theory. That's fine - you get theory elsewhere.
+
+Would I take him: Yes, especially after doing Johnson's class. The mental break is nice and you actually ship projects.

@@ -1,0 +1,41 @@
+SOURCE: Quora - "Professor Recommendations and Course Experiences"
+
+**Q: Should I take Algorithms with Johnson? I heard she's a hard grader.**
+
+A (from alumni in tech): Johnson is hands-down the best CS professor I had. Yes, she's hard. Yes, her exams are brutal. But here's the thing - I interview candidates and I can tell the difference between people who took Johnson's class and people who didn't. Johnson teaches you to think algorithmically, not just code. She curves generously (I think my midterm was curved +8 points) but the point is you UNDERSTAND algorithms after her class. Every FAANG company I've worked for wants to hire people with that foundation. Take her.
+
+---
+
+**Q: Is Data Structures with Smith worth the workload?**
+
+A (from grad student): 100%. Smith's class is one of the best I took. Yes, 10 hours/week outside class. Yes, the projects are challenging. But you ship real code - linked lists, trees, graphs, hash tables. After Smith's class I could walk into an interview and actually implement a balanced binary search tree. That's not common. His exams are fair because he literally tells you "I test lecture material" and he means it.
+
+---
+
+**Q: What courses/professors should I actually prioritize?**
+
+A (from Google engineer, graduated 2021): Prioritize courses with legendary professors: Smith (anything), Chen (Computer Architecture), Johnson (Algorithms). Don't optimize for easy grades. Optimize for professors who actually teach you something. Why? Because in 5 years nobody cares about your GPA. But you DO care if you can solve hard problems. I took Johnson's Algorithms (hard) and avoided a class with an easy professor and I don't regret it. The hard class made me better.
+
+---
+
+**Q: How curved are exams really?**
+
+A (student perspective): Depends on the professor. Smith curves the midterm (+5-10 pts) but not the final. Johnson curves the entire class at the end if needed. Chen mild curve. Gomez NO curve (brutal). Martinez no curve but generous partial credit. Rodriguez no curve. The curve is usually a safety net, not a guarantee. If you get a 50% expecting curve to save you and 60% of the class got 60%+, you're still behind. Don't rely on curves - study hard and see the curve as a bonus.
+
+---
+
+**Q: Which engineering courses are actually weeder courses?**
+
+A (from engineering grad): Signals & Systems (Gomez) is the notorious weeder. 40% of students don't pass. Not because Gomez is bad, but the material is genuinely hard and abstract. Circuits with Martinez is hard but passable - 70% pass rate. Digital Logic with Wu is hard but has a curve. Don't sleep on any of these, but Signals will make you question your major.
+
+---
+
+**Q: Is the workload exaggerated?**
+
+A (from 4.0 GPA student): No. Hard courses really do take 12-15+ hours per week. The difference is: (1) Procrastinators think it's 20+ because they start late. (2) People who plan spend 12-15 and get A/B. (3) People who plan really well spend 8-10 and get A. Time management matters. Smith and Johnson courses are genuinely heavy. Web Dev with Patel is genuinely light (6-8 hrs/week). Measure time in hours, not "difficulty" - that's subjective.
+
+---
+
+**Q: Can you survive a hard course with a weak professor?**
+
+A (Algorithms grad): Yes, but it's hard. If you have a bad Algorithms professor, you need to supplement with: MIT OpenCourseWare (Leiserson's Algorithms course is free and excellent), LeetCode (for practice), office hours, study groups. A good professor saves you 10+ hours per week. A bad professor means you find those resources yourself. The course material is still learnable - the professor is just not optimizing your learning.

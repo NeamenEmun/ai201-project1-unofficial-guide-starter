@@ -1,0 +1,45 @@
+SOURCE: Student Discord - #cs-exam-prep Channel
+
+[Exam Prep Discussion - May 2024]
+
+**@student_dave:** Hey all, just finished Smith's Data Structures midterm. If you're prepping, here's what helped: Smith's midterm is curved. The curve this year was +8 points. Average was about 68, so a 68 became a 76. Know that going in - it helps you relax. Study his lecture notes harder than the textbook. 70% of the exam was literally from his board work.
+
+**@CS_major_jane:** Thanks! Does he curve the final too?
+
+**@student_dave:** NO. Final is straight. So actually study hard for the final. The midterm curve is to help people who are struggling early. The final has no safety net.
+
+---
+
+**@algorithms_survivor:** Just took Johnson's Algorithms midterm. We got absolutely destroyed. The average was 58 (out of 100). But don't panic - she curves everything. I got a 58 and with curve it was a 68. If you're around the median, you're fine.
+
+**@CS_major_jane:** How hard was the proofs part?
+
+**@algorithms_survivor:** Like 40% of the exam was "Prove that algorithm X correctly solves problem Y." Requires understanding WHY the algorithm works, not just coding it. Study proof techniques: induction, contradiction, exchange arguments. That's what separates 70s from 40s on her exams.
+
+**@algorithms_survivor:** Pro tip: Office hours before the exam. Johnson goes through past exam problems. She drops hints about what to focus on.
+
+---
+
+**@circuits_help:** Circuits with Martinez is kicking my butt. Anyone else getting wrecked?
+
+**@student_derek:** Martinez's exams are hard but he gives partial credit. If you set up the equations right but make an arithmetic error, you get like 80% of the points. The issue is if you don't understand what you're solving. Focus on Kirchhoff's voltage/current laws - EVERYTHING stems from that.
+
+**@circuits_help:** Is there a curve?
+
+**@student_derek:** No. But Martinez is realistic. The class average is usually 65-70 and that's enough for a C or better.
+
+---
+
+**@web_dev_crew:** Patel's Web Dev has no exams which is so nice. It's all projects. You just build stuff. He grades based on if it works + if you showed up to class. Way more chill than the theory courses.
+
+**@algorithms_survivor:** Lucky. I'd kill for a no-exam class right now.
+
+**@web_dev_crew:** Tradeoff is you learn less deep theory. But if you want a break after Algorithms, definitely take Web Dev with Patel.
+
+---
+
+**@os_question:** OS with Rodriguez - is attendance really optional?
+
+**@os_graduate:** It's technically optional but you need to go. His projects require deep OS understanding. If you miss lectures, you won't know what you're building. I went to every lecture and still spent 20 hours on one project.
+
+**@os_graduate:** Also Rodriguez doesn't curve. Projects graded strictly on correctness. Small bug = full points off. Plan accordingly and test relentlessly.

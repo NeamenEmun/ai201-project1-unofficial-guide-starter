@@ -1,0 +1,77 @@
+SOURCE: Student Wiki - "Which Professors Should You Take? A Guide"
+
+## The Professors Everyone Wants
+
+**Smith (Data Structures, System Design)**
+- Reputation: Rigorous but fair
+- Why take him: You'll actually learn. His exams are reasonable if you study his notes.
+- Curve: Midterm yes (+5-10), Final no
+- Workload: Heavy but not unreasonable (10 hrs/week)
+- Verdict: Tough but rewarding. Great for interviews.
+
+**Patel (Web Development, Databases)**
+- Reputation: Chill, practical, grades generously
+- Why take him: Less stressful, more practical coding
+- Curve: Yes (+5-10% typically)
+- Workload: Moderate (6-8 hrs/week)
+- Verdict: Good GPA course but less deep theory
+
+**Chen (Computer Architecture, Circuits)**
+- Reputation: Excellent lecturer, fair grader
+- Why take him: Makes dry topics interesting. Projects are hard but educational.
+- Curve: Yes, mild (+3-8%)
+- Workload: Very heavy on projects (15+ hrs/week)
+- Verdict: Demanding but you learn real skills
+
+## The Professors Everyone Should Respect (But Fear)
+
+**Johnson (Algorithms, Advanced Algorithms)**
+- Reputation: Hard grader, but rigorous
+- Why take her: She teaches you to think. Tech companies notice.
+- Curve: Yes (+5-8% typically at end)
+- Workload: Heavy and abstract (12+ hrs/week)
+- Verdict: Hardest in CS but best for learning
+
+**Wu (Digital Logic, Systems Programming)**
+- Reputation: Dense lectures, relentless projects
+- Why take him: Foundation course. Must-take. Better hard Wu than bad easy professor.
+- Curve: Mild (+5% typically)
+- Workload: Very heavy (15+ hrs/week)
+- Verdict: Weeder course but essential
+
+**Martinez (Circuits, Electromagnetics)**
+- Reputation: Not easy, not mean. Strict.
+- Why take him: Most capable professor in engineering. No curve but generous partial credit.
+- Curve: No
+- Workload: Very heavy (12-15 hrs/week)
+- Verdict: Hard but fair. You earn your grade.
+
+## The "Red Flags" Professors
+
+**Gomez (Signals & Systems)**
+- Reputation: Genuinely difficult course + difficult professor
+- Curve: No
+- Pass rate: ~40%
+- Workload: Extreme (20+ hrs/week for most)
+- Verdict: Only take if you must. Consider waiting for a different professor.
+
+**Rodriguez (Operating Systems)**
+- Reputation: Fair but unforgiving. No curve.
+- Curve: No
+- Projects graded: Strictly on correctness
+- Workload: Extreme (15-20 hrs/week)
+- Verdict: Essential course but brutal. Plan for suffering.
+
+## The "Legend" Professors (Take Any Course They Offer)
+
+- **Chen** - Makes any topic interesting. Best lecturer.
+- **Smith** - Rigorous, fair, teaches real understanding.
+- **Patel** - Genuinely cares about student learning + generous grading.
+
+## Choosing Your Schedule
+
+**Hardest first** (recommended): Take Johnson, Wu, Martinez early while you have time/energy. The curves + future coursework is easier.
+
+**Spread it out**: Don't take 3 hard courses same semester. One hard + two moderate works. One hard + two easy is better.
+
+**Professor matters**: A hard course with an excellent professor (Smith, Chen) > an easy course with a bad professor.
